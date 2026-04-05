@@ -44,3 +44,10 @@ Install required libraries:
 
 ```bash
 pip install phonenumbers folium opencage
+
+```
+```bash
+git clone https://github.com/Sumanth-M-Poojary/phonenumbertracker.git
+cd phonenumbertracker
+python track.py
+
